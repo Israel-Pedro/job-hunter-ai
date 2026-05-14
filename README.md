@@ -37,10 +37,10 @@ job-hunter-ai/
 - requirements.txt
 - README.md
 
+acesse: https://job-hunter-ai-israel-pedro.streamlit.app
+
 ## ▶️ Como Executar
 
 ```bash
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
-
-acesse: https://job-hunter-ai-israel-pedro.streamlit.app
