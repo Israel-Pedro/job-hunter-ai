@@ -42,3 +42,5 @@ job-hunter-ai/
 ```bash
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
+
+acesse: https://job-hunter-ai-israel-pedro.streamlit.app
